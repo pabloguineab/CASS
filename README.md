@@ -1,4 +1,4 @@
-# RAG-chat-with-documents
+# RAG
 Chainlit app for advanced RAG. Uses llamaparse, langchain, qdrant and OpenAI.
 
 ### create virtualenv
